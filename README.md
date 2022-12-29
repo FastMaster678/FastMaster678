@@ -8,6 +8,6 @@
 - 😃 I'm *more so* learning C#! 
 - I love the Nintendo Wii, Microsoft Xbox 360, the Apple Mac and Microsoft Windows 7!
 <!---
-FastMaster678/FastMaster678 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+FastMaster678/FastMaster678 is ✨ special ✨ repository because its ✨ special ✨ (this file) appears on your GitHub profile which is ✨ special ✨.
 You can click the Preview link to take a look at your changes.
 --->
