@@ -7,6 +7,10 @@
 - ~~I'm learning Python!~~ Not really anymore...
 - 😃 I'm *more so* learning C#! 
 - I love the Nintendo Wii, Microsoft Xbox 360, the Apple Mac and Microsoft Windows 7!
+![FastMaster678's GitHub stats](https://github-readme-stats.vercel.app/api?username=fastmaster678&show_icons=true&theme=colbalt)
+
+<!--- Themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula --->
+
 <!---
 FastMaster678/FastMaster678 is ✨ special ✨ repository because its ✨ special ✨ (this file) appears on your GitHub profile which is ✨ special ✨.
 You can click the Preview link to take a look at your changes.
