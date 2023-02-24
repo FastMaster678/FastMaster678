@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FastMaster678! Nice to meet you!
-- 👀 I’m interested in editing games and making my own someday.
+- 👀 I’m interested in SDK app development and maybe even making a video game.
 - 🌱 I’m currently learning basic coding tutorials on Visual Studio.
 - I also like art, and making computer apps work, and more.
 - I hope to be the best coder I can on GitHub!
