@@ -5,10 +5,26 @@
 - I hope to be the best coder I can on GitHub!
 - :D I love attempting millions of things in order to get something to work!
 - 😃 I'm learning C#! 
-- I love the Nintendo Wii, Microsoft Xbox 360, the Apple Mac and Microsoft Windows 7!
-- Portable computer: Acer Aspire 5 Slim
-- Desktop computer: HP Pavilion
--  Mac: MacBook Pro (Mid 2010, 13-inch, macOS Big Sur/Snow Leopard)
+- I love the Nintendo Wii,
+<img src="/Docs/Additional Files/1200px-Wii-console.jpg" width="600" height="600">
+
+Microsoft Xbox 360,
+
+<img src="/Docs/Additional Files/81+lz2g6bJL.jpg" width="400" height="600">
+the Apple Mac,
+
+<img src="/Docs/Additional Files/png-transparent-white-apple-monitor-macintosh-operating-systems-apple-ii-computer-icons-happy-mac-icon-miscellaneous-computer-mac-thumbnail.png" width="600" height="600">
+
+and Microsoft Windows 7!
+
+<img src="/Docs/Additional Files/15-156332_windows-logo-windows-7-hd.png" width="600" height="370">
+--Computers--
+
+Portable computer: Acer Aspire 5 Slim
+
+Desktop computer: HP Pavilion
+
+Mac: MacBook Pro (Mid 2010, 13-inch, macOS Big Sur/Snow Leopard)
 
 
 ![FastMaster678's GitHub stats](https://github-readme-stats.vercel.app/api?username=fastmaster678&show_icons=true&theme=colbalt)
