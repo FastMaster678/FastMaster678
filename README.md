@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FastMaster678! Nice to meet you!
-- 👀 I’m interested in SDK app development and maybe even making a video game.
+- 👀 I’m offhandedly dabbling in SDK app development. (Maybe I'll even make a video game someday)
 - 🌱 I’m currently learning basic coding tutorials on Visual Studio.
-- I also like art, and making computer apps work, and more.
+- I also like art/animation, and making computer apps work, and more.
 - I hope to be the best coder I can on GitHub!
 - :D I love attempting millions of things in order to get something to work!
 - 😃 I'm learning C#! 
@@ -11,6 +11,7 @@
 Microsoft Xbox 360,
 
 <img src="/Docs/Additional Files/81+lz2g6bJL.jpg" width="400" height="600">
+
 the Apple Mac,
 
 <img src="/Docs/Additional Files/png-transparent-white-apple-monitor-macintosh-operating-systems-apple-ii-computer-icons-happy-mac-icon-miscellaneous-computer-mac-thumbnail.png" width="600" height="600">
@@ -18,13 +19,14 @@ the Apple Mac,
 and Microsoft Windows 7!
 
 <img src="/Docs/Additional Files/15-156332_windows-logo-windows-7-hd.png" width="600" height="370">
---Computers--
+
+## Computers
 
 Portable computer: Acer Aspire 5 Slim
 
-Desktop computer: HP Pavilion
+Desktop computer: ~~HP Pavilion~~ Now I use a GA-Z77-DS3H (rev 1.0, Windows 10/macOS Big Sur Hackintosh)
 
-Mac: MacBook Pro (Mid 2010, 13-inch, macOS Big Sur/Snow Leopard)
+Mac: MacBook Pro (Mid 2010, 13-inch, OS X El Capitan/Snow Leopard)
 
 
 ![FastMaster678's GitHub stats](https://github-readme-stats.vercel.app/api?username=fastmaster678&show_icons=true&theme=colbalt)
