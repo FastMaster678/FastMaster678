@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @FastMaster678! Nice to meet you!
-- 👀 I’m offhandedly dabbling in SDK app development. (Maybe I'll even make a video game someday)
-- 🌱 I’m currently learning basic coding tutorials on Visual Studio, and Adobe Flash animation.
-- 🎨 I also like art/animation, and making computer apps work, and more.
+- ℹ I've been examining OpenCorePkg's file structure to get a better grasp on coding. (Noob here)
+- 🌱 Outside of GitHub, my business is making animations in Adobe Flash/Animate.
+- 🎨 That said, I love art/animation, making computer apps work, and more.
 - 🙌 I hope to be the best coder I can on GitHub!
-- 👊 I love attempting millions of things in order to get something to work!
-- ℹ I'm currently thinking of making a game in Adobe Flash/Animate.
+- 👊 When something doesn't work, you have to try every logical solution your brain can come up with, before you give up.
+- 👀 I'm interested making a game in Adobe Flash/Animate.
 - I love the Nintendo Wii,
 <img src="/Docs/Additional Files/1200px-Wii-console.jpg" width="600" height="600">
 
