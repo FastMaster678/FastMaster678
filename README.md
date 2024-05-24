@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @FastMaster678! Nice to meet you!
-- 🌱 I've been examining OpenCorePkg's file structure to get a better grasp on coding. (Noob here)
-- 😀 Outside of GitHub, my business is making animations in Adobe Flash/Animate.
-- 🎨 That said, I love art/animation, making computer apps work, and more.
-- 🙌 I hope to be the best coder I can on GitHub!
-- 👊 When something doesn't work, you have to try every logical solution your brain can come up with, before you give up.
-- 👀 I'm interested in making a game in Adobe Flash/Animate.
+- 🌱 I barely know how to code, but I've learned a snippet or two from projects I like.
+- 😀 Most of the time, I make animations in Adobe Flash/Animate.
+- 🎨 That said, I love art/animation.
+- 🙌 Uhhhh, yeah!
+- 👊 When something doesn't work, you should try every logical solution your brain can come up with, before you give up.
+- 👀 I animate for YouTube on my personal YouTube channel! Check it out in the Links section on this profile!
+- 🙂 Outside of all that,
 - I love the Nintendo Wii,
 <img src="/Docs/Additional Files/1200px-Wii-console.jpg" width="600" height="600">
 
@@ -22,9 +23,9 @@ and Microsoft Windows 7!
 
 ## Computers
 
-Portable computer: Acer Aspire 5 Slim
+Portable computer: ~~Acer Aspire 5 Slim~~ Now I use a Lenovo Legion Y7000P-1060.
 
-Desktop computer: ~~HP Pavilion~~ Now I use a GA-Z77-DS3H (rev 1.0, Windows 10/macOS Big Sur Hackintosh)
+Desktop computer: ~~HP Pavilion~~ ~~Now I use a GA-Z77-DS3H (rev 1.0, Windows 10/macOS Big Sur Hackintosh)~~ Now I use a MSI Z370-A PRO setup.
 
 Mac: MacBook Pro (Mid 2010, 13-inch, OS X El Capitan/Snow Leopard)
 
